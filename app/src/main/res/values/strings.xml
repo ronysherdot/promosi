@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Promosi</string>
+    <string name="deskripsi">
+        Wayan sudana adalah seorang seniman ukiran kayu yang berasal dari desa Taro, Kabupaten Gianyar,
+        Beliau lahir pada tanggal 13 Februari 1956. Sekarang beliau berusia 63 tahun, beliau mengeluti
+        dunia seni ukiran kayu dari kecil sampai sekarang.
+
+    </string>
+    <string name="product">
+        Pada menu product ini akan menampilkan produk hasil kerajinan I Made Sudana, serta detail dari masing - masing produk.
+    </string>
+    <string name="bestproduct">
+        Pada menu bestproduct ini akan menampilkan produk yang paling diminati oleh pelanggan, serta detail dari masing - masing produk.
+    </string>
+    <string name="gallery">
+        Pada menu gallery ini akan menampilkan foto dari seluruh produk ukiran kayu I Made Sudana.
+    </string>
+    <string name="contact">
+        Pada menu contact ini terdapat dua tampilan menu yaitu yang pertama akan menampilkan kontak dari penrajin, yang kedua akan menampilkan kolom komentar.
+    </string>
+    <string name="about">
+        Pada menu about ini akan menampilkan data dari pembuat aplikasi.
+    </string>
+
+    <string name="urlAddress">http://192.168.43.12/tradisional_web/</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps2">Map</string>
+
+</resources>
